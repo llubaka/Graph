@@ -1,2 +1,2 @@
 # Graph
-University graph object example using java
+Implementing graph object using java.
